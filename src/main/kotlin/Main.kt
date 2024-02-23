@@ -2,7 +2,7 @@ fun main() {
     enterName("Hello everyone")
     addTwoNumbers(25,7)
     sumOfNumbers(6,8,5,9)
-    printOfInterest("My interests are discovering new things and travelling")
+    printOfInterest("My interests are discovering new things, travelling  and reading novels")
 
 }
 fun enterName(name:String){
